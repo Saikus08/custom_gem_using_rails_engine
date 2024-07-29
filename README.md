@@ -1,5 +1,5 @@
 # PrefixIds
-Short description and motivation.
+PrefixesIds module allows your ActiveRecord records to have a custom prefix set when created.
 
 ## Usage
 How to use my plugin.
