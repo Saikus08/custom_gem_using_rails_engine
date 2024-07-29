@@ -21,6 +21,17 @@ Or install it yourself as:
 $ gem install prefix_ids
 ```
 
+## Usage
+
+```ruby
+# frozen_string_literal: true
+
+class User < ApplicationRecord
+  has_prefix_id 'user'
+end
+
+```
+
 ## Contributing
 Contribution directions go here.
 
